@@ -1,0 +1,86 @@
+.nav__post{
+    background-color: red;
+    width: 100%;
+    height: 60px;
+}
+.nav__post button{
+    margin-left: 1300px;
+    margin-top: 15px;
+    width: 100px;
+    height: 35px;
+    background-color: aqua;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.form__container{
+    background-color: aqua;
+    width: 800px;
+    padding: 40px;
+    margin: 0 auto;
+    margin-top: 20px;
+    height: 600px;
+    position : relative;
+    display: block;
+    border-radius: 10px;
+}
+.title,.desc{
+    width: 550px;
+    height: 50px;
+    padding: 16px;
+    display: block;
+    /* margin-top: 80px; */
+}
+.title input{
+    width: 700px;
+    height: 35px;
+    margin-top: 10px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    padding: 5px 0px;
+}
+.desc textarea{
+    width: 700px;
+    height: 100px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.title label{
+    width: 600px;
+    margin-right: 600px;
+    margin-top: 20px;
+    font-size: 20px;
+    border: none;
+}
+
+.desc label{
+    width: 600px;
+    margin-right: 600px;
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+.file{
+    margin-right: 395px;
+    margin-top: 200px;
+}
+
+.file__input{
+    width: 200px;
+}
+
+.btn__submit{
+    margin: 0 auto;
+}
+.btn__submit input{
+    background-color: rgb(121, 247, 96);
+    width: 150px;
+    height: 40px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 10px;
+    color: blue;
+    cursor: pointer;
+}
+
